@@ -14,7 +14,7 @@ describe('Operations', () => {
         expect(subtract(1,1)).toBe(0);
     });
 
-    //Test 3 - Multiply 2 numbers
+    //Test 3 - Multiply two numbers
     it('2 * 2 = 4', () => {
         expect(multiply(2,2)).toBe(4);
     });
